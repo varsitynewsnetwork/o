@@ -1,0 +1,9 @@
+{
+	"name": "o",
+	"version": "1.0.0",
+	"main": "./dist/o.js",
+	"ignore": [ ],
+	"dependencies": {
+		"angular": ">=1.3.0 <2.0.0"
+	}
+}
