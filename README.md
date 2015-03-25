@@ -67,7 +67,7 @@ app.controller('MyController', function ($o, $http) {
 
 ### The `observing` directive
 
-o ships with a an `observing` directive that makes it ideal for using in the UI - say for a loading graphic.
+o ships with an `observing` directive that makes it ideal for using in the UI - say for a loading graphic.
 
 ```html
 <div observing='key'>
