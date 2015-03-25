@@ -79,7 +79,7 @@ This directive simply adds a `promise-resolving` class to the element while prom
 
 ## Running tests
 
-Tests use the karma framework + jasmine. They can be run via an npm script.
+Tests use the karma test runner + jasmine. They can be run via an npm script.
 
 ```
 $ npm i 
