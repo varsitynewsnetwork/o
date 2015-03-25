@@ -1,5 +1,7 @@
 #o
 
+[![Build Status](https://travis-ci.org/varsitynewsnetwork/o.svg?branch=master)](https://travis-ci.org/varsitynewsnetwork/o)
+
 Simple promise observing for AngularJS.
 
 ## PromiseObserver
