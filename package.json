@@ -8,6 +8,10 @@
     "test": "node_modules/karma/bin/karma start karma.conf.js --single-run",
     "build": "node_modules/.bin/gulp build"
   },
+  "keywords": [
+    "angular",
+    "promises"
+  ],
   "repository": {
     "type": "git",
     "url": "git@github.com:varsitynewsnetwork/o.git"
