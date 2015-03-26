@@ -4,6 +4,13 @@
 
 Simple promise observing for AngularJS.
 
+## Usage
+You can leverage the `PromiseObserver` and the `observing` directive by including the `vnn.o` module as a dependency.
+
+```js
+angular.module('mymodule', ['vnn.o']);
+```
+
 ## PromiseObserver
 
 The `PromiseObserver` service is used to monitor promises and associate a key with them so their status can be polled.
